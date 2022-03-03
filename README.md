@@ -1,2 +1,1 @@
-# github-demo-remote
-just another repository
+# This is README.md file
